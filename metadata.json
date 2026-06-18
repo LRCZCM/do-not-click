@@ -1,0 +1,6 @@
+{
+  "name": "不要点 (Do Not Click)",
+  "description": "一个简单的互动小游戏：挑战自己，看看能不能点到那个一直在逃跑的按钮。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
